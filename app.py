@@ -1,6 +1,6 @@
 def solve():
 	print("Hello jee hello jee")
-        #hello all 
+        #hello all.
 
 for i in range(5):
 	solve(i)
