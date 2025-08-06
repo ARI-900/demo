@@ -1,2 +1,2 @@
-print("Hello world");
-print("My name is sayan);
+print("Hello world")
+print("My name is sayan")  # corrected by arijit
